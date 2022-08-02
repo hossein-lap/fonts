@@ -18,8 +18,28 @@ Fonts that Hos use :)
 │  └── Serif
 ├── Persian
 │  ├── hm-ftx
+│  │  ├── Homa
+│  │  ├── Jadid
+│  │  ├── Kamran
+│  │  ├── Koodak
+│  │  ├── Lotoos
+│  │  ├── Mitra
+│  │  ├── Nazli
+│  │  └── Tabassom
 │  ├── hm-xs2
+│  │  ├── Kayhan
+│  │  ├── Niloofar
+│  │  ├── Roya
+│  │  ├── Shiraz
+│  │  ├── Tabriz
+│  │  ├── Titr
+│  │  ├── Traffic
+│  │  ├── Yekan
+│  │  └── Zar
 │  ├── Khat
+│  │  ├── Dima_Shekaste
+│  │  ├── IranNastaliq
+│  │  └── Shekaste_Beta
 │  ├── persian-modern
 │  └── Yas
 ├── Source-Pro
